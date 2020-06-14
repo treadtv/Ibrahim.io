@@ -13,308 +13,308 @@ var json = {"items": [
    "muted" : "1",
    "reps" : ""
 },
-// {
-//   "exerciseName": "Warm Up<br>High Knees<br><br><br>Swipe Right Once Done",
-//   "exerciseGif":  "https://treadibbu.imfast.io/WarmUp_highKnees.mp4",
-//    "muted" : "1",
-//    "reps" : ""
-// },
-// {
-//   "exerciseName": "Warm Up<br>Arm Rotations<br><br><br>Swipe Right Once Done",
-//   "exerciseGif":  "https://treadibbu.imfast.io/WarmUp_ArmRotation.mp4",
-//    "muted" : "1",
-//    "reps" : ""
-// },
-// {
-//   "exerciseName": "Warm Up<br>Knee Ben Leg-Rotations<br><br><br>Swipe Right Once Done",
-//   "exerciseGif":  "https://treadibbu.imfast.io/WarmUp_HipJoint.mp4",
-//    "muted" : "1",
-//    "reps" : ""
-// },
-// {
-//   "exerciseName": "Warm Up<br>Side-to-Side Ground Tuck<br><br><br>Swipe Right Once Done",
-//   "exerciseGif":  "https://treadibbu.imfast.io/WarmUp_SideTouch.mp4",
-//    "muted" : "1",
-//    "reps" : ""
-// },
+{
+  "exerciseName": "Warm Up<br>High Knees<br><br><br>Swipe Right Once Done",
+  "exerciseGif":  "https://treadibbu.imfast.io/WarmUp_highKnees.mp4",
+   "muted" : "1",
+   "reps" : ""
+},
+{
+  "exerciseName": "Warm Up<br>Arm Rotations<br><br><br>Swipe Right Once Done",
+  "exerciseGif":  "https://treadibbu.imfast.io/WarmUp_ArmRotation.mp4",
+   "muted" : "1",
+   "reps" : ""
+},
+{
+  "exerciseName": "Warm Up<br>Knee Ben Leg-Rotations<br><br><br>Swipe Right Once Done",
+  "exerciseGif":  "https://treadibbu.imfast.io/WarmUp_HipJoint.mp4",
+   "muted" : "1",
+   "reps" : ""
+},
+{
+  "exerciseName": "Warm Up<br>Side-to-Side Ground Tuck<br><br><br>Swipe Right Once Done",
+  "exerciseGif":  "https://treadibbu.imfast.io/WarmUp_SideTouch.mp4",
+   "muted" : "1",
+   "reps" : ""
+},
 
 
 
 
 
-//      {
-//    "exerciseName": "Round 1: Jumping Jacks<br><br><br><br>Swipe Right Once Done",
-//    "exerciseGif":  "https://treadibbu.imfast.io/Round1_JJ.mp4",
-//    "muted" : "1",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "muted" : "1",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 1: Sprawls<br><br><br><br>Swipe Right Once Done",
-//    "exerciseGif":  "https://treadibbu.imfast.io/Round1_Sprawls.mp4",
-//    "muted" : "1",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "muted" : "1",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
+     {
+   "exerciseName": "Round 1: Jumping Jacks<br><br><br><br>Swipe Right Once Done",
+   "exerciseGif":  "https://treadibbu.imfast.io/Round1_JJ.mp4",
+   "muted" : "1",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "muted" : "1",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 1: Sprawls<br><br><br><br>Swipe Right Once Done",
+   "exerciseGif":  "https://treadibbu.imfast.io/Round1_Sprawls.mp4",
+   "muted" : "1",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "muted" : "1",
+    "calories" :"1",
+    "upnext" : "1"
+ },
 
-//     {
-//    "exerciseName": "Round 1: Squat to T Spine Rotation<br><br><br><br>Swipe Right Once Done",
-//    "exerciseGif": "https://treadibbu.imfast.io/Round1_SquattoTSpine.mp4",
-//    "muted" : "1",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//    "muted" : "1",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 1: Side to Side Ground Tuck",
-//    "exerciseGif": "https://treadibbu.imfast.io/Round1_SideTouch.mp4",
-//    "muted" : "1",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//    "muted" : "1",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 1: Crab to Hip Thrust",
-//    "exerciseGif": "https://treadibbu.imfast.io/Round1_Crab_toHipThrust.mp4",
-//    "muted" : "1",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//    "muted" : "1",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//      {
-//    "exerciseName": "Round 1: High Plank Shoulder Tap",
-//    "exerciseGif": "https://treadibbu.imfast.io/Round1_ShoulderTaps.mp4",
-//    "muted" : "1",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//    "muted" : "1",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//      {
-//    "exerciseName": "Round 1: Hands Off Burpees",
-//    "exerciseGif": "https://treadibbu.imfast.io/Round1_HandsOffBurpees.mp4",
-//    "muted" : "1",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
+    {
+   "exerciseName": "Round 1: Squat to T Spine Rotation<br><br><br><br>Swipe Right Once Done",
+   "exerciseGif": "https://treadibbu.imfast.io/Round1_SquattoTSpine.mp4",
+   "muted" : "1",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+   "muted" : "1",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 1: Side to Side Ground Tuck",
+   "exerciseGif": "https://treadibbu.imfast.io/Round1_SideTouch.mp4",
+   "muted" : "1",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+   "muted" : "1",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 1: Crab to Hip Thrust",
+   "exerciseGif": "https://treadibbu.imfast.io/Round1_Crab_toHipThrust.mp4",
+   "muted" : "1",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+   "muted" : "1",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+     {
+   "exerciseName": "Round 1: High Plank Shoulder Tap",
+   "exerciseGif": "https://treadibbu.imfast.io/Round1_ShoulderTaps.mp4",
+   "muted" : "1",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+   "muted" : "1",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+     {
+   "exerciseName": "Round 1: Hands Off Burpees",
+   "exerciseGif": "https://treadibbu.imfast.io/Round1_HandsOffBurpees.mp4",
+   "muted" : "1",
+    "calories" :"1",
+    "upnext" : "1"
+ },
  
 
 
-//  {
-//   "exerciseName": "Round 1 Completed",
-//   "exerciseGif": "https://treadibbu.imfast.io/Round1_Completion.mp4",
-//   "muted" : "1",
-//   "time":"60",
-//    "calories" :"1",
-//    "upnext" : "1"
-// },   
+ {
+  "exerciseName": "Round 1 Completed",
+  "exerciseGif": "https://treadibbu.imfast.io/Round1_Completion.mp4",
+  "muted" : "1",
+  "time":"60",
+   "calories" :"1",
+   "upnext" : "1"
+},   
 
 
 
-//     {
-//    "exerciseName": "Round 2: Jumping Jacks",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu1.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 2: Sprawls",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu2.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 2: Squat to T Spine Rotation",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu3.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 2: Side to Side Ground Tuck",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu4.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 2: Crab to Hip Thrust",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu5.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//      {
-//    "exerciseName": "Round 2: High Plank Shoulder Tap",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu6.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//      {
-//    "exerciseName": "Round 2: Hands Off Burpees",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu7.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Round 2 Completed",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"60",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 3: Jumping Jacks",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu1.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Round 3: Sprawls",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu2.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 3: Squat to T Spine Rotation",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu3.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 3: Side to Side Ground Tuck",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu4.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//     {
-//    "exerciseName": "Round 3: Crab to Hip Thrust",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu5.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
-//     {
-//    "exerciseName": "Rest",
-//    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
-//     "time":"20",
-//     "calories" :"1",
-//     "upnext" : "1"
-//  },
-//      {
-//    "exerciseName": "Round 3: High Plank Shoulder Tap",
-//    "exerciseGif": "https://treadibbu.imfast.io/Ibbu6.mp4",
-//     "time":"30",
-//     "calories" :"1"
-//  },
+    {
+   "exerciseName": "Round 2: Jumping Jacks",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu1.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 2: Sprawls",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu2.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 2: Squat to T Spine Rotation",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu3.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 2: Side to Side Ground Tuck",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu4.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 2: Crab to Hip Thrust",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu5.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+     {
+   "exerciseName": "Round 2: High Plank Shoulder Tap",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu6.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+     {
+   "exerciseName": "Round 2: Hands Off Burpees",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu7.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Round 2 Completed",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"60",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 3: Jumping Jacks",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu1.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Round 3: Sprawls",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu2.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 3: Squat to T Spine Rotation",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu3.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 3: Side to Side Ground Tuck",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu4.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+    {
+   "exerciseName": "Round 3: Crab to Hip Thrust",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu5.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
+    {
+   "exerciseName": "Rest",
+   "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
+    "time":"20",
+    "calories" :"1",
+    "upnext" : "1"
+ },
+     {
+   "exerciseName": "Round 3: High Plank Shoulder Tap",
+   "exerciseGif": "https://treadibbu.imfast.io/Ibbu6.mp4",
+    "time":"30",
+    "calories" :"1"
+ },
     {
    "exerciseName": "Rest",
    "exerciseGif": "v1588864993/rest_fmpgsz.mp4",
